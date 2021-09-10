@@ -1,0 +1,2 @@
+This small Web project is a simple recipe website that links different recipes to the original page homepage.
+I've used my html skills in order to structure and display these pages with the use of Title, Header, Image, Paragraph, Ordered and Unordered Lists, and Anchor tags with Links embedded.
